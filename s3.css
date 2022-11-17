@@ -1,0 +1,11 @@
+body{
+    background-color: snow;
+    color: rgb(10, 0, 99);
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer {
+    text-align: center;
+    background-color:lightcyan;   
+}
