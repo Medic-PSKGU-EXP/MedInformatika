@@ -1,7 +1,11 @@
-body{
-    background-color: azure;
-    color: slategray;
+
+    body {
+        
+            background: url("1000.jpg") repeat-y;
+           
+          
+        color: rgb(10, 0, 99);
     margin: 5px;
     padding: 2px;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
